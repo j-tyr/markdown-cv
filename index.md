@@ -34,10 +34,10 @@ Software Engineer
 
 ## Education - University of Birmingham
 
-`Feb 2019 - Nov 2019`
-### Postdoctoral Research Fellow
-- Working in the Chemical Engineering department.
-- Modelling twin screw granulation - an emerging technology for the improved processing of pharmaceutical ingredients prior to tabletting.
+`Feb 2019 - Nov 2019`  
+__Postdoctoral Research Fellow__  
+Working in the Chemical Engineering department.  
+Modelling twin screw granulation - an emerging technology for the improved processing of pharmaceutical ingredients prior to tabletting.  
 
 ### PhD in Applied Mathematics (Sep 2015 - Feb 2019)
 - Working in the Mathematical Biology group.
