@@ -3,7 +3,7 @@ layout: cv
 title: James Tyrrell's CV
 ---
 # James Tyrrell
-Software Engineer
+Software Engineer | PhD Applied Mathematics | [LinkedIn](https://www.linkedin.com/in/james-tyrrell/)
 
 ## Career objectives
 To further develop experience producing commercial software, drawing on mathematical expertise.  
@@ -17,11 +17,11 @@ Familiarity with __Javascript__, __Julia__, and __Python__ through intermittent 
 ## Current role
 
 `Nov 2019 - Present`  
-__Software Developer at Arup__
+__Software Developer at Arup__  
 Primary developer for Oasys REPORTER, a tool for automatically generating reports from finite element analysis results.  
 Engaged in full-stack development using C++ and the Qt toolkit.  
 
-__Major responsibilites__
+__Major responsibilites__  
 - developing new enhancements,
 - fixing existing bugs, 
 - designing QA tests,
@@ -29,7 +29,7 @@ __Major responsibilites__
 - handling support rquests from clients,
 - liaising with the Product Manager to discuss the future vision for our software.
 
-__Additional responsibilites__
+__Additional responsibilites__  
 - Engaged in Green / Sustainable Software research on behalf of the Oasys LS-DYNA group.
 - Former Sustainability co-lead for the Advanced Digital Engineering group.
 
