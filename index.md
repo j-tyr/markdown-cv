@@ -6,21 +6,22 @@ title: James Tyrrell's CV
 Software Engineer
 
 ## Career objectives
-- To further develop experience producing commercial software, drawing on mathematical expertise.
-- Continue ongoing promotion of Sustainability initiatives and research within the Digital space. 
+To further develop experience producing commercial software, drawing on mathematical expertise.  
+Continue ongoing promotion of Sustainability initiatives and research within the Digital space.  
 
 ## Software development experience
-- Working with __C++__ in current role (and in former Research Fellow role) as well as the __Qt__ toolkit.
-- Extensive use of __MATLAB__ during PhD. 
-- Familiarity with __Javascript__, __Julia__, and __Python__ through intermittent project work and personal use.
+Working with __C++__ in current role (and in former Research Fellow role) as well as the __Qt__ toolkit.  
+Extensive use of __MATLAB__ during PhD.  
+Familiarity with __Javascript__, __Julia__, and __Python__ through intermittent project work and personal use.  
 
 ## Current role
 
-### Software Developer at Arup (Nov 2019 - Present)
-- Primary developer for Oasys REPORTER, a tool for automatically generating reports from finite element analysis results. 
-- Engaged in full-stack development using C++ and the Qt toolkit. 
+`Nov 2019 - Present`  
+__Software Developer at Arup__
+Primary developer for Oasys REPORTER, a tool for automatically generating reports from finite element analysis results.  
+Engaged in full-stack development using C++ and the Qt toolkit.  
 
-### Major responsibilites
+__Major responsibilites__
 - developing new enhancements,
 - fixing existing bugs, 
 - designing QA tests,
@@ -28,7 +29,7 @@ Software Engineer
 - handling support rquests from clients,
 - liaising with the Product Manager to discuss the future vision for our software.
 
-### Additional responsibilites
+__Additional responsibilites__
 - Engaged in Green / Sustainable Software research on behalf of the Oasys LS-DYNA group.
 - Former Sustainability co-lead for the Advanced Digital Engineering group.
 
@@ -39,12 +40,14 @@ __Postdoctoral Research Fellow__
 Working in the Chemical Engineering department.  
 Modelling twin screw granulation - an emerging technology for the improved processing of pharmaceutical ingredients prior to tabletting.  
 
-### PhD in Applied Mathematics (Sep 2015 - Feb 2019)
-- Working in the Mathematical Biology group.
-- Thesis title: `Modelling cytosolic flow and vesicle transport in the growing pollen tube.'
+`Sep 2015 -Feb 2019`  
+__PhD in Applied Mathematics__  
+Working in the Mathematical Biology group.  
+Thesis title: `Modelling cytosolic flow and vesicle transport in the growing pollen tube'.  
 
-### MSci Mathematics (Sep 2011 - Jul 2015)
-- Graduated with first class honours.
+`Sep 2011 - Jul 2015`  
+__MSci Mathematics__  
+Graduated with first class honours.
 
 ## Project work
 Contributed to three major releases of the Oasys Suite with a wide range of responsibilities:
@@ -74,12 +77,14 @@ Significant experience of applying compuational mathematics to numerical problem
 
 
 ## Publications
-__2019__ J. Tyrrell, D.J. Smith, and R.J. Dyson. Regularized Stokeslet rings: An efficient method for axisymmetric Stokes flow with application to the growing pollen tube. Phys. Rev. Fluids 4, 063102.  
-__2018__ S. Inglesfield _et al._ Robust phagocyte recruitment controls the opportunistic fungal pathogen _Mucor circinelloides_ in innate granulomas _in vivo_. MBio 9 (2), e02010-17.  
-__2017__ M-SBSG report. Modelling of electrokinetic pre-concentration.  
-__2016__ M-SBSG report. Using mathematical modelling to understand the role of the glycocalyx.  
+`2019`  
+J. Tyrrell, D.J. Smith, and R.J. Dyson. Regularized Stokeslet rings: An efficient method for axisymmetric Stokes flow with application to the growing pollen tube. Phys. Rev. Fluids 4, 063102.   
+`2018`  
+S. Inglesfield _et al._ Robust phagocyte recruitment controls the opportunistic fungal pathogen _Mucor circinelloides_ in innate granulomas _in vivo_. MBio 9 (2), e02010-17.  
+`2017`  
+M-SBSG report. Modelling of electrokinetic pre-concentration.  
+`2016`  
+M-SBSG report. Using mathematical modelling to understand the role of the glycocalyx.  
 
 ## References
-Available upon request.
-
-
+Available upon request.  
