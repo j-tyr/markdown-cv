@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: James Tyrrell's CV
+title: James Tyrrell
 ---
 
 # James Tyrrell
