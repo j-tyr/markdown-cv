@@ -29,7 +29,7 @@ Developing new enhancements,
 Fixing existing bugs,  
 Designing QA tests,  
 Integrating third-party libraries into our software and keeping them up to date,  
-Handling support rquests from clients,  
+Handling support requests from clients,  
 Liaising with the Product Manager to discuss the future vision for our software.  
 
 __Additional responsibilites__  
@@ -60,10 +60,10 @@ Added the ability to capture MP4 content from D3PLOT for later playback in REPOR
 Updated REPORTER for an improved viewing experience on high-DPI displays in __Oasys 19.0__, alongside a renewed focus on back-end improvements (e.g. updating Qt libraries, built from source, across our Windows and Unix systems).  
 
 __Computational mathematics__  
-Researching the application of Fast Multipole Boundary Element Methods to granular flow, comparing results to those achievable using other similar methods (e.g. Discrete Element Methods).  
-Deriving coupled partial differential equations for chemical concentrations in the growing pollen tube (essential for plant fertilisation), solved numerically in MATLAB.  
-Developing a novel numerical solution method (based on Regularised Stokeslets) for certain axisymmetrical fluid-flow problems, with an improved speed and accuracy over other conventional methods.  
-Iterating and improving upon a set of equations for measuring the immune response of zebrafish to fungal infection.  
+Researched the application of Fast Multipole Boundary Element Methods to granular flow, comparing results to those achievable using other similar methods (e.g. Discrete Element Methods).  
+Derived coupled partial differential equations for chemical concentrations in the growing pollen tube (essential for plant fertilisation), solved numerically in MATLAB.  
+Developed a novel numerical solution method (based on Regularised Stokeslets) for certain axisymmetrical fluid-flow problems, with an improved speed and accuracy over other conventional methods.  
+Iterated and improved upon a set of equations for measuring the immune response of zebrafish to fungal infection.  
 
 ## Conferences and collaborative work  
 
@@ -73,7 +73,7 @@ British Young Mathematicians Colloquium (Birmingham Summer 2016).
 UK Fluids Conference (Manchester September 2018).  
 
 __Study Groups__  
-Participated in the 2016 and 2017 Multi-Scale Biology Study Group at the University of Birmingham, working on multiple group projects.
+Participated in the 2016 and 2017 Multi-Scale Biology Study Group at the University of Birmingham, working on multiple group projects.  
 Organised the final presentation for one of these projects and made significant contributions to final written report (2016).   
 Developed MATLAB code to find a partial solution to a given problem and took a leading role in presenting this work (2017).  
 
