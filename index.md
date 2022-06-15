@@ -4,7 +4,6 @@ title: James Tyrrell
 ---
 
 # James Tyrrell
-
 Software Engineer | PhD Applied Mathematics | [LinkedIn](https://www.linkedin.com/in/james-tyrrell/)
 
 ## Career objectives
